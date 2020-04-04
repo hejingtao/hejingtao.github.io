@@ -1374,7 +1374,6 @@ ul {
         font-weight: 700;
         border-bottom: 1px solid #CCC;
         position: relative;
-        -webkit-transition: all 0.4s ease;
         transition: all 0.4s ease; }
       #operate-content .right .accordion #text-input {
         width: 100%;
@@ -1409,7 +1408,6 @@ ul {
         left: 12px;
         font-size: 18px;
         color: #595959;
-        -webkit-transition: all 0.4s ease;
         transition: all 0.4s ease; }
       #operate-content .right .accordion li i.fa-chevron-down {
         right: 12px;
@@ -1420,7 +1418,6 @@ ul {
       #operate-content .right .accordion li.open i {
         color: #b63b4d; }
       #operate-content .right .accordion li.open i.fa-chevron-down {
-        -webkit-transform: rotate(180deg);
         -ms-transform: rotate(180deg);
         transform: rotate(180deg); }
       #operate-content .right .accordion .submenu {
@@ -1444,7 +1441,6 @@ ul {
             border: 1px solid #e9e9e9;
             text-decoration: none;
             color: #FFF;
-            -webkit-transition: all 0.25s ease;
             transition: all 0.25s ease; }
             #operate-content .right .accordion .submenu li div img {
               width: 100%;
@@ -1462,7 +1458,6 @@ ul {
             text-decoration: none;
             color: red;
             border: 1px solid #535353;
-            -webkit-transition: all 0.25s ease;
             transition: all 0.25s ease; }
           #operate-content .right .accordion .submenu li span {
             display: block;
